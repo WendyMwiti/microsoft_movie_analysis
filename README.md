@@ -24,16 +24,17 @@ Here I started data cleaning and in most instances for missing values I dropped 
 ## Visualization
 Question 1: What are the Best Rated Genres
 Used a bar graph to show the various movie-genres in terms of ratings
-![image](https://user-images.githubusercontent.com/109112517/187027381-d7e0f057-0464-440b-a109-835b553ce213.png)
+![image](https://user-images.githubusercontent.com/109112517/187027381-d7e0f057-0464-440ba109-835b553ce213.png)
+
 ### Findings
-Documentaries are the best rated genre followed by comedies with an aspect of drama and adventure respectively. Historical Documentaries are also highly regarded by the audience
-Question 2: Which is the most profitable month to release a movie 
+Documentaries are the best rated genre followed by comedies with an aspect of drama and adventure respectively. Historical Documentaries are also highly regarded by the audience 
+Question 2: Which is the most profitable month to release a movie  
 ![image](https://user-images.githubusercontent.com/109112517/187030086-a3eb9b97-d646-4c9c-a8cf-0a71bbc5277d.png)
 Due to the provision of worldwidegross and production budget in the The Numbers dataset I was able to calculate the profit various movies brought and later the most profitable month.
-### Findings
+### Findings 
 December produces the highest profits followed by April and finally June.
 January has the lowest profits
-There is also a relative decline in profits between the months of August and November
+There is also a relative decline in profits between the months of August and November 
 Question 3:What is the relationship between production budget and profit made?
 ![image](https://user-images.githubusercontent.com/109112517/187030458-de22698f-3401-44da-acfd-138082b635ba.png)
 ### Findings
