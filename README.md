@@ -29,8 +29,7 @@ Used a bar graph to show the various movie-genres in terms of ratings
 ### Findings
 Documentaries are the best rated genre followed by comedies with an aspect of drama and adventure respectively. Historical Documentaries are also highly regarded by the audience  
 #### Question 2: Which is the most profitable month to release a movie  
-![image](https://user-images.githubusercontent.com/109112517/187030086-a3eb9b97-d646-4c9c-a8cf-0a71bbc5277d.png) 
-Due to the provision of worldwidegross and production budget in the The Numbers dataset I was able to calculate the profit various movies brought and later the most profitable month.
+![image](https://user-images.githubusercontent.com/109112517/187030086-a3eb9b97-d646-4c9c-a8cf-0a71bbc5277d.png)  Due to the provision of worldwidegross and production budget in the The Numbers dataset I was able to calculate the profit various movies brought and later the most profitable month.
 ### Findings 
 December produces the highest profits followed by April and finally June.
 January has the lowest profits
