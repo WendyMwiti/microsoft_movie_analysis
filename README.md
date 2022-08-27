@@ -5,18 +5,18 @@ Microsoft wants to create original video content and have decided to create a ne
 The movie industry is competitive and to be a big performer a company has to approach in the right way, in this case using insights from existing data.There are many popular databases like IMDB and TMDB with movie datasets that we can analyse. For this project 6 datasets were provided and I chose to use 3 which I felt would answer the business questions I posed.
 ### Goals
 My objective is to answer the following questions
-1.What are the best rated genres
-2.Which is the most profitable month to release a movie
-3.What is the relationship between production budget and profit made
-4.Which month has the highest movie releases
+1. What are the best rated genres
+2. Which is the most profitable month to release a movie
+3. What is the relationship between production budget and profit made
+4. Which month has the highest movie releases
 ### Platforms Used
-1.Git/GitHub
+1. Git/GitHub
 ### Tools Used
 1.pandas for data analysis
-2.numpy for scientific computation
-3.matplotlib for basic plotting
-4.seaborn for advanced plotting
-5.sqlite3 for running SQL queries on our datasets
+2. numpy for scientific computation
+3. matplotlib for basic plotting
+4. seaborn for advanced plotting
+5. sqlite3 for running SQL queries on our datasets
 ## Data Understanding
 The first step was to load my data into my jupyter notebook then explore surface properties of the datasets to like the data attributes.This enabled me to choose the datasets that were best to answer my business questions. Queying the data to find the shape of the data, where relationships lie, the datatypes involved, how many missing values exist and how the aggregations of numerical values appears Having Understood the data, I selected the following datasets: IMDB('im.db'), The Numbers('tn.movie_budgets.csv.gz'), TMDB('tmdb.movies.csv.gz'). This is because their attributes like genres, ratings, production budget, worldwide gross would best inform on my business questions
 ## Data Preparation
