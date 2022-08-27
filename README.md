@@ -22,7 +22,7 @@ The first step was to load my data into my jupyter notebook then explore surface
 This enabled me to choose the datasets that were best to answer my business questions. Queying the data to find the shape of the data, where relationships lie, the datatypes involved, how many missing values exist and how the aggregations of numerical values appears
 #Data Preparation
 Having Understood the data, I selected the following datasets: IMDB('im.db'), The Numbers('tn.movie_budgets.csv.gz'), TMDB('tmdb.movies.csv.gz'). This is because their attributes like genres, ratings, production budget, worldwide gross would best inform on my business questions. Here I started data cleaning and in most instances for missing values I dropped them since the datasets were fairly large.  any duplicates of data were dropped. In certain instances, i had to convert certain datatypes  like dates to datetime objects to easily access the values I required. SQL enabled to select only the columns I required for my data analysis. There was a relationship of innterest in the movie_basics table and movie_ratings from the IMDB data so i merged them.
-#Visualization
+###Visualization
 Best Rated Genre
 Used a bar graph to show the distribution of the various movie-genres in terms of ratings
 ![image](https://user-images.githubusercontent.com/109112517/187027381-d7e0f057-0464-440b-a109-835b553ce213.png)
