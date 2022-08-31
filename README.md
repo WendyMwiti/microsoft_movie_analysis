@@ -24,7 +24,8 @@ Here I started data cleaning and in most instances for missing values I dropped 
 ## Visualization
 #### Question 1: What are the Best Rated Genres
 Used a bar graph to show the various movie genres in terms of ratings
-![image](https://user-images.githubusercontent.com/109112517/187027381-d7e0f057-0464-440ba109-835b553ce213.png)
+![download (1)](https://user-images.githubusercontent.com/109112517/187660764-626ce405-e764-4db6-ab66-d1cc163340f3.png)
+
 
 ### Findings
 Documentaries are the best rated genre followed by comedies with an aspect of drama and adventure respectively. Historical Documentaries are also highly regarded by the audience  
